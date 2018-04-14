@@ -1,2 +1,2 @@
-# Django
-Django小项目
+# Spride爬虫
+爬虫小项目
